@@ -1,3 +1,4 @@
+'''
 ## Hi there 👋
 
 <!--
@@ -14,3 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+'''
+
+# Hi there, I'm Jeffrey Chou! 👋
+
+Welcome to my GitHub profile! Here are some things about me:
+
+- 🌱 I’m currently learning [specific technology or skill].
+- 💬 Ask me about [topics or projects you are interested in].
+- 📫 How to reach me: [your email or other contact information].
+- ⚡ Fun fact: [a fun fact about you].
+
+Thanks for visiting my profile! Have a great day!
