@@ -1,5 +1,5 @@
 
-## Hi there, I'm Jeffrey Chou/ZhouJunfei(周骏飞 in Chinese) 👋
+### Hi there, I'm Jeffrey Chou/Zhou Junfei(周骏飞 in Chinese) 👋
 
 <!--
 **jeffreychou777/jeffreychou777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
