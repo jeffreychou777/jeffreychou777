@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! Here are some things about me:
 
-- 🌱 I’m currently learning V2X.
+- 🌱 I’m currently learning V2X and Autonomous Driving.
+- 👯 I’m open to any collaboration opportunities.
 - 📫 How to reach me: jeffreychou@my.swjtu.edu.cn.
 
 Thanks for visiting my profile! Have a great day!
