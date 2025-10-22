@@ -22,5 +22,5 @@ Welcome to my GitHub profile! Here are some things about me:
 
 - 🌱 I’m currently focusing on V2X and Autonomous Driving.
 - 👯 I’m open to any collaboration opportunities.
-- 🚀 I am seeking **Early 2026(or Late 2025)** **research assistant or research intern positions** and **Fall 2027 Ph.D.** opportunities in the field of autonomous driving, available in **China mainland, Hong Kong SAR, and Singapore.**
+- 🚀 I am seeking **research assistant or research intern positions starting in Late 2025 or Early 2026**, as well as **Fall 2027 Ph.D. opportunities** in the field of autonomous driving, available in **mainland China, Hong Kong SAR, and Singapore.**
 - 📫 How to reach me: jeffreychou777@gmail.com & jeffreychou@my.swjtu.edu.cn.
